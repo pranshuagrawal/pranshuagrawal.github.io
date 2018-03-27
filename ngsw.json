@@ -10,7 +10,7 @@
         "/favicon.ico",
         "/index.html",
         "/inline.318b50c57b4eba3d437b.bundle.js",
-        "/main.930bc9fa81011ccdd9b4.bundle.js",
+        "/main.29235ee4e59ea253bd8a.bundle.js",
         "/polyfills.2d896654d931a4d9a559.bundle.js",
         "/styles.d18e96d00b1896fc91ec.bundle.css"
       ],
@@ -71,7 +71,7 @@
   "hashTable": {
     "/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "/assets/data/boundary_overs.json": "0b335725d5f570c0886d7ae1906a5606ad7bc76c",
-    "/main.930bc9fa81011ccdd9b4.bundle.js": "a8e26b6d77bc02f9cb42d4b728458bb5d9ec8508",
+    "/main.29235ee4e59ea253bd8a.bundle.js": "639a75d69e01728e27c306aa40d54238845f3fb5",
     "/assets/data/fow_overs.json": "da9e290400553ad92634285ae51aaedfe4800437",
     "/polyfills.2d896654d931a4d9a559.bundle.js": "5f49131c0c147a20f91b1e77814434e0c77bd3dc",
     "/assets/data/player_110_details.json": "61166108c1f5ebe234de922e94dc7a3ad73cf3fa",
@@ -79,7 +79,7 @@
     "/assets/data/player_162_details.json": "b089719dc905f50dabd6669720be3c9bfc26def8",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
     "/assets/data/player_187_details.json": "af778e921bc5ab3a725c857092115dca84716d6c",
-    "/index.html": "594b19e6714556599232c33aa88340bb6d96390f",
+    "/index.html": "ec909ed576703a4514db3c99636692100ffa050f",
     "/assets/data/player_21_details.json": "93d9b09733381878a4b213d1856bf7c371c9c115",
     "/assets/data/player_31_details.json": "961729c8b046d262c42239457a89df2cd50de272",
     "/assets/data/player_b_136_details.json": "de23c5f25969fd61f06b69f260d8782b939f4fec",
