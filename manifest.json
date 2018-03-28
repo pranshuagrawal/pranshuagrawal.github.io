@@ -11,7 +11,7 @@
       "src":"./assets/images/logo_512.png",
       "sizes": "512x512",
       "type": "image/png"
-    },
+    }
   ],
   "start_url": "/?utm_source=homescreen",
   "background_color": "#222",
